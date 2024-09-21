@@ -9,7 +9,7 @@
 # Netflix Movie and TV Shows Project Overview
 
 ## About the Project
-The purpose of this project is to generate descriptive statistics and look into trends of movie and TV show releases on Netflix over the years. 
+The purpose of this project is to generate descriptive statistics and look into trends of movie and TV show releases on Netflix over the years. This dataset is from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ### Summary Statistics of Movie and TV Show Release Years:
 <table border="1" class="dataframe">
@@ -90,6 +90,9 @@ This project contains:
 ![image](https://github.com/user-attachments/assets/47b3bd24-96d8-4a3a-a1ec-7cc8f935e802)
 
 (alternatively, do all with `make all`)
+
+## Walkthrough Video
+Here is the link to my [demo video](https://youtu.be/mOJkvNA_WrI)
 
 
 

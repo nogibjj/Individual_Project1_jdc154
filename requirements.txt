@@ -7,8 +7,8 @@ nbval==0.10.0
 nbqa==1.7.0
 
 #data and visualizations
-matplotlib
-pandas
+matplotlib == 3.9.2
+pandas == 2.2.2
 
 #rust based lint
 ruff==0.0.290

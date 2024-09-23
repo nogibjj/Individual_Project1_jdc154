@@ -8,7 +8,7 @@ nbqa==1.7.0
 
 #data and visualizations
 matplotlib == 3.7.5
-pandas == 2.2.2
+pandas == 2.0.2
 
 #rust based lint
 ruff==0.0.290
